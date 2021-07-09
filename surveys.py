@@ -61,3 +61,5 @@ surveys = {
     "satisfaction": satisfaction_survey,
     "personality": personality_quiz,
 }
+
+question1 =  Question("Do you ever dream about code?")
